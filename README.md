@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusuf-burhanpur
 - 👀 I’m interested in travelling and adventrous sports
-- 🌱 I’m currently learning Reactjs & Nodejs
-- 📫 How to reach me yusufzarief1@gmail.com
+- 🌱 I’m currently Working as a Junior Software Developer at Betsperts Group
+- 📫 How to reach me yusufmustafa206@gmail.com
 
 <!---
 yusuf-burhanpur/yusuf-burhanpur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
